@@ -1,0 +1,44 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scene/MenuManager_Account.cs">
+    <Files>
+      <File FileName="Assets/_Scene/LeaderboardSetting.cs" Line="359" Column="3" />
+      <File FileName="Assets/Kakao/Sample/KakaoSample.cs" Line="53" Column="38" />
+      <File FileName="Assets/_Scene/MenuManager_Account.cs" Line="255" Column="8" />
+      <File FileName="Assets/_Scene/MenuManager_LoadResources.cs" Line="166" Column="153" />
+      <File FileName="Assets/Kakao/Common/KakaoLeaderboards.cs" Line="104" Column="24" />
+      <File FileName="Assets/Kakao/Sample/KakaoMessagesView.cs" Line="43" Column="3" />
+      <File FileName="Assets/_Scene/Model/MailList.cs" Line="28" Column="91" />
+      <File FileName="Assets/_Scene/MenuManager.cs" Line="116" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Scene" expanded="True">
+                <Node name="Model" expanded="True" />
+                <Node name="MenuManager_Account.cs" selected="True" />
+              </Node>
+              <Node name="Kakao" expanded="True">
+                <Node name="Common" expanded="True" />
+                <Node name="Plugins" expanded="True" />
+                <Node name="Sample" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

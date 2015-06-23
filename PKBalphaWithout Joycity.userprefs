@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scene/Login_Register.cs">
+    <Files>
+      <File FileName="Assets/_Scene/MenuManager.cs" Line="17" Column="27" />
+      <File FileName="Assets/_Scene/Model/PushNoti.cs" Line="28" Column="11" />
+      <File FileName="Assets/_Scene/MenuManager_Account.cs" Line="1147" Column="13" />
+      <File FileName="Assets/_Scene/Login_Register.cs" Line="500" Column="7" />
+      <File FileName="Assets/Scripts/General/AgStt.cs" Line="117" Column="19" />
+      <File FileName="Assets/Scripts/Network/JOY_Manage.cs" Line="169" Column="39" />
+      <File FileName="Assets/_Scene/Title.cs" Line="59" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

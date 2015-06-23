@@ -1,0 +1,63 @@
+#!/usr/bin/perl
+use File::Copy;
+
+print ("\n*** Starting PostprocessBuildPlayer ***\n");
+
+my $installPath = $ARGV[0];
+
+#go through the info.plist file line by line until you find this one:
+my $endOfPlist = "</dict>";
+
+# The type of player built:
+# "dashboard", "standaloneWin32", "standaloneOSXIntel", "standaloneOSXPPC", "standaloneOSXUniversal", "webplayer", "iPhone"
+my $target = $ARGV[1];
+
+print ("\n*** PostprocessBuildPlayer - Building at '$installPath' with target: $target ***\n");
+
+################################################################
+# This modifies info.plist to add the external accessory       #
+# entries                                                      #
+################################################################
+
+#open this file
+
+$oplistPath = $installPath."/Info.plist";
+$nplistPath = $installPath."/Info.plist.tmp";
+
+open OLDPLIST, "<", $oplistPath or die("Cannot open Info.plist");
+open NEWPLIST, ">", $nplistPath or die("Cannot create new Info.plist");
+
+my $nextLine = 0;
+
+while(<OLDPLIST>)
+{
+    ################################################################
+    # Add any key/value pairs you want at the end of Info.plist    #
+    ################################################################
+    
+    if ($_ =~ m/$endOfPlist/)
+    {
+        my $keys = "";
+        
+        $keys .= "    <key>CFBundleURLTypes</key>\n";
+        $keys .= "   <array>\n";
+        $keys .= "      <dict>\n";
+        $keys .= "   <key>CFBundleURLSchemes</key>\n";
+        
+        $keys .= "   <array>\n";
+        
+        $keys .= "   <string>kakao88865833564111728</string>\n";
+        $keys .= "      </array>\n";
+        $keys .= "   </dict>\n";
+        $keys .= "   </array>\n";
+        
+        $_ = $keys . $_;
+    }
+    
+    print NEWPLIST $_;
+}
+
+close OLDPLIST;
+close NEWPLIST;
+
+`mv \'$nplistPath\' \'$oplistPath\'`;

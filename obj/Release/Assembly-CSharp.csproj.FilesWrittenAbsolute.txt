@@ -1,0 +1,17 @@
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/UnityEngine.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/UnityEditor.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/I18N.CJK.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/I18N.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/ICSharpCode.SharpZipLib.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/LitJson.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/P31RestKit.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/Assembly-CSharp-firstpass.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/Assembly-CSharp-firstpass.dll.mdb
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/Mono.Cecil.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/nunit.framework.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/Unity.DataContract.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/ICSharpCode.NRefactory.dll
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/Assembly-CSharp.dll.mdb
+/Users/appsgraphy/Desktop/PKBalpha/Temp/bin/Release/Assembly-CSharp.dll
+/Users/appsgraphy/Desktop/PKBalpha/obj/Release/Assembly-CSharp.dll
+/Users/appsgraphy/Desktop/PKBalpha/obj/Release/Assembly-CSharp.dll.mdb

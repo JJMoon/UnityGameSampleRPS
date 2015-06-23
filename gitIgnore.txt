@@ -1,0 +1,26 @@
+#*.userprefs
+# Unity3D .gitignore file.
+#   Store this file at the root of your local repository.
+# Moon Added...
+Assets/Scripts/AgNoShare.cs
+Assets/Scripts/AgNoShare.cs.meta
+.DS_Store
+ProjectSettings/
+Library/AssetImportState
+Library/AssetServerCacheV3
+Library/FailedAssetImports.txt
+Library/ScriptAssemblies
+Library/ScriptMapper
+Library/assetDatabase3
+Library/cache
+Library/expandedItems
+Library/metadata
+Library/previews
+Library/guidmapper
+Temp
+*.userprefs
+*.csproj
+*.pidb
+*.sln
+*.meta
+build

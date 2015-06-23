@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: c35baa8765b794bb6a19cc399f6e3160
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Dummy_BottomLeft
+    100002: Dummy_BottomRight
+    100004: Dummy_Center
+    100006: Dummy_Root
+    100008: Dummy_TopLeft
+    100010: Dummy_TopRight
+    100012: goalNet
+    100014: //RootNode
+    400000: Dummy_BottomLeft
+    400002: Dummy_BottomRight
+    400004: Dummy_Center
+    400006: Dummy_Root
+    400008: Dummy_TopLeft
+    400010: Dummy_TopRight
+    400012: goalNet
+    400014: //RootNode
+    4300000: goalNet
+    7400000: goalnetAni_LB
+    7400002: goalnetAni_LT
+    7400004: goalnetAni_C
+    7400006: goalnetAni_RT
+    7400008: goalnetAni_RB
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: goalNet
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: goalnetAni_LT
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy_Root
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomRight
+        weight: 1
+      - path: Dummy_Root/Dummy_Center
+        weight: 1
+      - path: Dummy_Root/Dummy_TopLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_TopRight
+        weight: 1
+      - path: goalNet
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: goalnetAni_LB
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy_Root
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomRight
+        weight: 1
+      - path: Dummy_Root/Dummy_Center
+        weight: 1
+      - path: Dummy_Root/Dummy_TopLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_TopRight
+        weight: 1
+      - path: goalNet
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: goalnetAni_C
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy_Root
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomRight
+        weight: 1
+      - path: Dummy_Root/Dummy_Center
+        weight: 1
+      - path: Dummy_Root/Dummy_TopLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_TopRight
+        weight: 1
+      - path: goalNet
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: goalnetAni_RT
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy_Root
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomRight
+        weight: 1
+      - path: Dummy_Root/Dummy_Center
+        weight: 1
+      - path: Dummy_Root/Dummy_TopLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_TopRight
+        weight: 1
+      - path: goalNet
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: goalnetAni_RB
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy_Root
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_BottomRight
+        weight: 1
+      - path: Dummy_Root/Dummy_Center
+        weight: 1
+      - path: Dummy_Root/Dummy_TopLeft
+        weight: 1
+      - path: Dummy_Root/Dummy_TopRight
+        weight: 1
+      - path: goalNet
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

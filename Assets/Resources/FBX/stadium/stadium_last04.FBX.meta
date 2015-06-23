@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 49c41abb33f6a4b3cb0c8757be7aee36
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder003
+    100004: Bone024
+    100006: Bone023
+    100008: Bone022
+    100010: Bone021
+    100012: Bone020
+    100014: Bone019
+    100016: Bone018
+    100018: Bone017
+    100020: Bone016
+    100022: Bone015
+    100024: Bone014
+    100026: Bone013
+    100028: Bone012
+    100030: Bone011
+    100032: Bone010
+    100034: Bone009
+    100036: Bone008
+    100038: Bone007
+    100040: Bone006
+    100042: Bone005
+    100044: Bone004
+    100046: Bone003
+    100048: Bone002
+    100050: Bone001
+    100052: Object001
+    100054: Cylinder002
+    100056: Sinside04
+    100058: Sinside03
+    100060: Sindide02
+    100062: Sinside01
+    100064: Crowdbm01
+    100066: crowdf03
+    100068: Adv 2flore
+    100070: flag006
+    100072: flag005
+    100074: Adv 1flore
+    100076: add_plane1
+    100078: sinside
+    100080: soutside
+    100082: rails
+    100084: adc 3flore
+    100086: csuites
+    100088: jtronscn
+    100090: lts1s1
+    100092: lts2s1
+    100094: lts3s1
+    100096: lts4s1
+    100098: lts1s2
+    100100: lts2s2
+    100102: lts3s2
+    100104: lts4s2
+    100106: prsbox1
+    100108: prsbox2
+    100110: sfield
+    100112: flag1 1
+    100114: flag2
+    100116: flag3
+    100118: flag4
+    100120: add_plane1 1
+    100122: flag1
+    400000: //RootNode
+    400002: Cylinder003
+    400004: Bone024
+    400006: Bone023
+    400008: Bone022
+    400010: Bone021
+    400012: Bone020
+    400014: Bone019
+    400016: Bone018
+    400018: Bone017
+    400020: Bone016
+    400022: Bone015
+    400024: Bone014
+    400026: Bone013
+    400028: Bone012
+    400030: Bone011
+    400032: Bone010
+    400034: Bone009
+    400036: Bone008
+    400038: Bone007
+    400040: Bone006
+    400042: Bone005
+    400044: Bone004
+    400046: Bone003
+    400048: Bone002
+    400050: Bone001
+    400052: Object001
+    400054: Cylinder002
+    400056: Sinside04
+    400058: Sinside03
+    400060: Sindide02
+    400062: Sinside01
+    400064: Crowdbm01
+    400066: crowdf03
+    400068: Adv 2flore
+    400070: flag006
+    400072: flag005
+    400074: Adv 1flore
+    400076: add_plane1
+    400078: sinside
+    400080: soutside
+    400082: rails
+    400084: adc 3flore
+    400086: csuites
+    400088: jtronscn
+    400090: lts1s1
+    400092: lts2s1
+    400094: lts3s1
+    400096: lts4s1
+    400098: lts1s2
+    400100: lts2s2
+    400102: lts3s2
+    400104: lts4s2
+    400106: prsbox1
+    400108: prsbox2
+    400110: sfield
+    400112: flag1 1
+    400114: flag2
+    400116: flag3
+    400118: flag4
+    400120: add_plane1 1
+    400122: flag1
+    2300000: Cylinder003
+    2300002: Cylinder002
+    2300004: Sinside04
+    2300006: Sinside03
+    2300008: Sindide02
+    2300010: Sinside01
+    2300012: Crowdbm01
+    2300014: crowdf03
+    2300016: Adv 2flore
+    2300018: flag006
+    2300020: flag005
+    2300022: Adv 1flore
+    2300024: soutside
+    2300026: rails
+    2300028: adc 3flore
+    2300030: csuites
+    2300032: jtronscn
+    2300034: lts1s1
+    2300036: lts2s1
+    2300038: lts3s1
+    2300040: lts4s1
+    2300042: lts1s2
+    2300044: lts2s2
+    2300046: lts3s2
+    2300048: lts4s2
+    2300050: prsbox1
+    2300052: prsbox2
+    2300054: sfield
+    2300056: flag1 1
+    2300058: flag2
+    2300060: flag3
+    2300062: flag4
+    2300064: flag1
+    3300000: Cylinder003
+    3300002: Cylinder002
+    3300004: Sinside04
+    3300006: Sinside03
+    3300008: Sindide02
+    3300010: Sinside01
+    3300012: Crowdbm01
+    3300014: crowdf03
+    3300016: Adv 2flore
+    3300018: flag006
+    3300020: flag005
+    3300022: Adv 1flore
+    3300024: soutside
+    3300026: rails
+    3300028: adc 3flore
+    3300030: csuites
+    3300032: jtronscn
+    3300034: lts1s1
+    3300036: lts2s1
+    3300038: lts3s1
+    3300040: lts4s1
+    3300042: lts1s2
+    3300044: lts2s2
+    3300046: lts3s2
+    3300048: lts4s2
+    3300050: prsbox1
+    3300052: prsbox2
+    3300054: sfield
+    3300056: flag1 1
+    3300058: flag2
+    3300060: flag3
+    3300062: flag4
+    3300064: flag1
+    4300000: flag1
+    4300002: flag4
+    4300004: flag3
+    4300006: flag2
+    4300008: flag1
+    4300010: sfield
+    4300012: prsbox2
+    4300014: prsbox1
+    4300016: lts4s2
+    4300018: lts3s2
+    4300020: lts2s2
+    4300022: lts1s2
+    4300024: lts4s1
+    4300026: lts3s1
+    4300028: lts2s1
+    4300030: lts1s1
+    4300032: jtronscn
+    4300034: csuites
+    4300036: adc 3flore
+    4300038: rails
+    4300040: soutside
+    4300042: Adv 1flore
+    4300044: flag005
+    4300046: flag006
+    4300048: Adv 2flore
+    4300050: crowdf03
+    4300052: Crowdbm01
+    4300054: Sinside01
+    4300056: Sindide02
+    4300058: Sinside03
+    4300060: Sinside04
+    4300062: Cylinder002
+    4300064: Object001
+    4300066: Cylinder003
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: Object001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 2
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
